@@ -17,5 +17,6 @@ LOS 16:
   ignoreClientHostname: true
 LOS CM 14.1:
   ignoreClientHostname: true
-
+aosp:
+  ignoreClientHostname: true
 #ignoreClientHostname is used to keep persistence by ignoring the client hostname
